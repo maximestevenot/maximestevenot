@@ -13,4 +13,9 @@
 
 ---
 
+<p>
+:clapper: Watch <a href="https://www.youtube.com/watch?v=4Sn0pTQIC8E">my interview</a> as DevOps & Cloud Architect for Sopra Banking Software
+</p>
+
+---
 <img src="https://github-readme-stats.vercel.app/api?username=maximestevenot&show_icons=true&locale=en" alt="maximestevenot"/>
