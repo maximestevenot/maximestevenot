@@ -18,4 +18,4 @@
 </p>
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=maximestevenot&show_icons=true&locale=en" alt="maximestevenot"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=maximestevenot&show_icons=true&locale=en" alt="maximestevenot"/> -->
